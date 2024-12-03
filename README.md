@@ -14,20 +14,57 @@ Languages and Tools:
 I specialize in cloud infrastructure, CI/CD, and container orchestration.
 
 ## 🛠️ Skills
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
-
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-
-### DevOps Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
+<p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Operating System</kbd>
+      <br>
+      <br>
+      <img title="Linux" alt="Linux" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /> 
+      <img title="Rocky" alt="Rocky" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/rockylinux/rockylinux-original.svg" /> 
+      <img title="Ubuntu" alt="Ubuntu" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>Containerization</kbd>
+      <br>
+      <br>
+      <img title="Docker" alt="Docker" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /> 
+      <img title="K8S" alt="K8S" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>CI/CD</kbd>
+      <br>
+      <br>
+      <img title="Gitlab" alt="Gitlab" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" /> 
+      <img title="Jenkins" alt="Jenkins" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>IaC</kbd>
+      <br>
+      <br>
+      <img title="Ansible" alt="Ansible" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" /> 
+      <img title="Terraform" alt="Terraform" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>Monitoring</kbd>
+      <br>
+      <br>
+      <img title="Prometheus" alt="Prometheus" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" /> 
+      <img title="Grafana" alt="Grafana" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" /> 
+      <img title="Kibana" alt="Kibana" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>Scripting</kbd>
+      <br>
+      <br>
+      <img title="Bash" alt="Bash" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" /> 
+      <img title="Python" alt="Python" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>Web Service</kbd>
+      <br>
+      <br>
+      <img title="Apache" alt="Apache" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" /> 
+      <img title="Nginx" alt="Nginx" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" /> 
+      <img title="Tomcat" alt="Tomcat" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" /> 
+    </kbd>
+  </p>
