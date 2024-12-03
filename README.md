@@ -1,14 +1,13 @@
 # 👩‍💻 About Me
-Hi! I'm Yafit, a passionate DevOps Engineer 🚀. 
+Hi  I'm Yafit, a passionate DevOps Engineer 🚀. 
 
 
 Contact Me:
 
 Email: yafithaftzadi@gmail.com
+
 LinkedIn: linkedin.com/in/yafit-haftzadi
 
-
-Languages and Tools: 
 
  
 I specialize in cloud infrastructure, CI/CD, and container orchestration.
